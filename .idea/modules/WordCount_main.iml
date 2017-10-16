@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="WordCount:main" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="WordCount" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://C:/hadoop-2.8.1/share/hadoop/httpfs" />
+          <root url="file://C:/hadoop-2.8.1/share/hadoop/yarn" />
+          <root url="file://C:/hadoop-2.8.1/share/hadoop/common" />
+          <root url="file://C:/hadoop-2.8.1/share/hadoop/hdfs" />
+          <root url="file://C:/hadoop-2.8.1/share/hadoop/mapreduce" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://C:/hadoop-2.8.1/share/hadoop/common/jdiff" />
+          <root url="file://C:/hadoop-2.8.1/share/hadoop/hdfs/jdiff" />
+          <root url="file://C:/hadoop-2.8.1/share/hadoop/mapreduce/jdiff" />
+        </SOURCES>
+        <jarDirectory url="file://C:/hadoop-2.8.1/share/hadoop/common" recursive="false" />
+        <jarDirectory url="file://C:/hadoop-2.8.1/share/hadoop/hdfs" recursive="false" />
+        <jarDirectory url="file://C:/hadoop-2.8.1/share/hadoop/mapreduce" recursive="false" />
+        <jarDirectory url="file://C:/hadoop-2.8.1/share/hadoop/yarn" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://C:/hadoop-2.8.1/share/hadoop/common/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://C:/hadoop-2.8.1/share/hadoop/common/lib" />
+        </SOURCES>
+        <jarDirectory url="file://C:/hadoop-2.8.1/share/hadoop/common/lib" recursive="false" />
+        <jarDirectory url="file://C:/hadoop-2.8.1/share/hadoop/common/lib" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+  </component>
+</module>

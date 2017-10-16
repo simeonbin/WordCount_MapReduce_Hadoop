@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: C:\Users\Simeon\Documents\JetBrains\WordCount\out\producti
+ on\classes
+Main-Class: WordCount
+

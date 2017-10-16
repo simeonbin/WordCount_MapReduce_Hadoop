@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WordCount.iml" filepath="$PROJECT_DIR$/.idea/modules/WordCount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WordCount_main.iml" filepath="$PROJECT_DIR$/.idea/modules/WordCount_main.iml" group="WordCount" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WordCount_test.iml" filepath="$PROJECT_DIR$/.idea/modules/WordCount_test.iml" group="WordCount" />
+    </modules>
+  </component>
+</project>
